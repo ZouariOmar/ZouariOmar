@@ -5,7 +5,7 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 - 🔭 I’m currently working on C/C++ 
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on new business ideas.
-<!-- - 🤔 I’m looking for help with on new business ideas. -->
+- 🤔 I’m looking for help with on new business ideas.
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
 - 📫 How to reach me:DM 📱 email-dj.zouariomar20@gmail.com.
 
