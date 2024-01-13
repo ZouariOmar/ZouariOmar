@@ -41,6 +41,8 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 ![](https://img.shields.io/badge/-Win11-win?logo=Windows&logoColor=bleu&label=Windows&cacheSeconds=https%3A%2F%2Fwww.microsoft.com)
 
 </br>
-<a><p><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+<div>
+  src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen>
+</div>
 </br>
 by GitHub ❤
