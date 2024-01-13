@@ -36,8 +36,11 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 </br>
-</br>
 
+![](https://img.shields.io/badge/-2023.4-Linux?logo=Linux&logoColor=bleu&label=Kali&cacheSeconds=https%3A%2F%2Fwww.kali.org)
+![](https://img.shields.io/badge/-Win11-win?logo=Windows&logoColor=bleu&label=Windows&cacheSeconds=https%3A%2F%2Fwww.microsoft.com)
+
+</br>
 
 ## 📈 GitHub Stats 
 view rawREADME.txt hosted with ❤ by GitHub
