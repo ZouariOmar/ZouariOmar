@@ -26,18 +26,8 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/code-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
-![](https://img.shields.io/badge/code-GULP-informational?style=flat&logo=gulp&logoColor=white)
+![](https://img.shields.io/badge/-3.12.0-Py?style=plastic&logo=python&logoColor=bleu&label=Pyhton&link=https%3A%2F%2Fwww.python.org)
 
 </br>
 
@@ -48,10 +38,6 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 
 </br>
 
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
