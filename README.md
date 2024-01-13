@@ -42,12 +42,7 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 
 </br>
 <div align="center">
-  <img src="https://media.giphy.com/media/l1KVaj5Ucbi93wxKE/giphy.gif" alt="Dance GIF" width="200"/>
+  <img src="[https://media.giphy.com/media/l1KVaj5Ucbi93wxKE/giphy.gif](https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473a3axmhzkyvqmi9uxhxdv490spu7hr46f4eshftw&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Dance GIF" width="200"/>
 </div>
-
-![GitHub](https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473a3axmhzkyvqmi9uxhxdv490spu7hr46f4eshftw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 </br>
 by GitHub ❤
-
-
-
