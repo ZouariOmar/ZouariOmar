@@ -43,7 +43,7 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 </br>
 
 <p align="center">
-  <img src="https://giphy.com/embed/rS6hNEBJYqy3Tfo9yS" alt="GitHub GIF"/>
+  <img src="https://media1.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47lmw66jng3d5yrpwud954t5pikoke2exhrnfu8qsv&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="GitHub GIF"/>
 </p>
 
 </br>
