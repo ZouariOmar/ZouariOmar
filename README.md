@@ -27,7 +27,7 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 
 ![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-[![Java](https://img.shields.io/badge/Java-16.0.1-ED8B00?style=plastic&logo=java)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-16.0.1-ED8B00?style=plastic)](https://www.oracle.com/java/) [![Java Icon](https://example.com/java-icon.png)](https://www.oracle.com/java/)
 ![](https://img.shields.io/badge/-3.12.0-Py?style=plastic&logo=python&logoColor=bleu&label=Pyhton&link=https%3A%2F%2Fwww.python.org)
 ![](https://img.shields.io/badge/-C23-C?style=plastic&logo=c&logoColor=180%2C180%2C120&label=C)
 ![](https://img.shields.io/badge/Wordpress-6.4-Wordpress?style=plastic&logo=wordpress)
