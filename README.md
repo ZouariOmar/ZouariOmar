@@ -27,7 +27,7 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 
 ![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-[![Java](https://img.shields.io/badge/Java-16.0.1-ED8B00?style=plastic)](https://www.oracle.com/java/) [![Java Icon](https://example.com/java-icon.png)](https://www.oracle.com/java/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/-3.12.0-Py?style=plastic&logo=python&logoColor=bleu&label=Pyhton&link=https%3A%2F%2Fwww.python.org)
 ![](https://img.shields.io/badge/-C23-C?style=plastic&logo=c&logoColor=180%2C180%2C120&label=C)
 ![](https://img.shields.io/badge/Wordpress-6.4-Wordpress?style=plastic&logo=wordpress)
@@ -39,9 +39,10 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 
 </br>
 
-![](https://img.shields.io/badge/Ubuntu-23.1-Ubuntu?style=plastic&logo=Ubuntu)
-![](https://img.shields.io/badge/-2023.4-Linux?logo=Linux&logoColor=bleu&label=Kali&cacheSeconds=https%3A%2F%2Fwww.kali.org)
-![](https://img.shields.io/badge/-Win11-win?logo=Windows&logoColor=bleu&label=Windows&cacheSeconds=https%3A%2F%2Fwww.microsoft.com)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 </br>
 
