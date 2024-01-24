@@ -29,6 +29,7 @@ I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving,
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/-3.12.0-Py?style=plastic&logo=python&logoColor=bleu&label=Pyhton&link=https%3A%2F%2Fwww.python.org)
 ![](https://img.shields.io/badge/-C23-C?style=plastic&logo=c&logoColor=180%2C180%2C120&label=C)
+![](https://img.shields.io/badge/Wordpress-6.4-Wordpress?style=plastic&logo=wordpress)
 
 </br>
 
