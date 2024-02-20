@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 - 🔭 I’m currently working on C/C++ 
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on new business ideas.
 - 🤔 I’m looking for help with on new business ideas.
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
-- 📫 How to reach me:DM 📱 email-dj.zouariomar20@gmail.com.
+- 📫 How to reach me:DM 📱 zouariomar20@gmail.com.
 
 ## 🤝 Connect with me:
 
