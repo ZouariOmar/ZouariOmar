@@ -3,7 +3,7 @@
 I am **ZouariOmar(Java Full Stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 - 🔭 I’m currently working on C/C++ 
-- 🌱 I’m currently learning JDK_22
+- 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on new business ideas.
 - 🤔 I’m looking for help with on new business ideas.
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
